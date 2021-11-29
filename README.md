@@ -1,4 +1,4 @@
-(https://media-exp1.licdn.com/dms/image/C5616AQHFdQR5a1vExA/profile-displaybackgroundimage-shrink_350_1400/0/1625279111693?e=1643846400&v=beta&t=8t_mFEq_T0WGhdebmqVSIL_Dvnq8vwhPWiHrASDjOTQ)
+.(https://media-exp1.licdn.com/dms/image/C5616AQHFdQR5a1vExA/profile-displaybackgroundimage-shrink_350_1400/0/1625279111693?e=1643846400&v=beta&t=8t_mFEq_T0WGhdebmqVSIL_Dvnq8vwhPWiHrASDjOTQ)
 ### Hi there 👋, This is Md. Rony
 #### JavaScript || React || Python
 ![JavaScript || React || Python]
