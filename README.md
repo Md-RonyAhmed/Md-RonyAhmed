@@ -1,4 +1,4 @@
-![JavaScript || React || Python](https://media-exp1.licdn.com/dms/image/C5616AQHFdQR5a1vExA/profile-displaybackgroundimage-shrink_350_1400/0/1625279111693?e=1643846400&v=beta&t=8t_mFEq_T0WGhdebmqVSIL_Dvnq8vwhPWiHrASDjOTQ)
+![JavaScript || React || Python](https://www.facebook.com/photo/?fbid=2956065817989051&set=a.1616946335234346)
 ### Hi there 👋, This is Md. Rony
 #### JavaScript || React || Python
 I'm a self-motivated, honest, and hard-working person. I have some skills like C, C++, Python, MySQL, JavaScript, HTML, CSS, React, Redux, PHP, Artificial Intelligence, Machine learning, Neural networks, Computer vision, Image processing, and Graphics design.
