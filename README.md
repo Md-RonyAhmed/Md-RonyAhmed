@@ -6,7 +6,7 @@ My passion is programming and the field of machine learning. So, I want to be a 
 My strong point is working long hours without losing patience. My weakness is whenever I get any task to do, I give so much time with it until it was finished and it kills some time.
 I participated in many programming contests on online and offline platforms
 
-Skills: JavaScript/ React/ MongoDB/ HTML/ CSS/ Python/ Django/ Machine Learning/ Deep Learning/ Computer Vision / Image Processing
+Skills: JavaScript/ React/ MongoDB/ HTML/ CSS/ Python/ Django/ Node/ Express/ Machine Learning/ Deep Learning/ Computer Vision / Image Processing
 
 - 🔭 I’m currently working on Frontend Development 
 - 🌱 I’m currently learning React JS 
