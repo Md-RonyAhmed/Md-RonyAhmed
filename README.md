@@ -1,4 +1,4 @@
-![JavaScript || React || Node || Python](https://media-exp1.licdn.com/dms/image/C5616AQGGHWJZkbYDmA/profile-displaybackgroundimage-shrink_350_1400/0/1638433919490?e=1653523200&v=beta&t=RKZkuHISn_SPMjUypCsCduV1c1A3OE1K8DxS7UkZLuw)
+![JavaScript || React || Node || Python](https://www.bypeople.com/wp-content/uploads/2019/04/fullstack-javaScript-courses-featured.png)
 ### Hi there 👋, This is Md. Rony
 #### JavaScript || React || Node || Python
 I'm a self-motivated, honest, and hard-working person. I have some skills like C, C++, Python, MySQL, JavaScript, HTML, CSS, React, Redux, PHP, Artificial Intelligence, Machine learning, Neural networks, Computer vision, Image processing, and Graphics design.
