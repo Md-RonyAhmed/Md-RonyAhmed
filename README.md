@@ -37,6 +37,6 @@ Skills: JavaScript/ React/ MongoDB/ HTML/ CSS/ Python/ Django/ Node/ Express/ Ma
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Md-RonyAhmed)
 ![GitHub metrics](https://metrics.lecoq.io/Md-RonyAhmed)
 
-![Profile views](https://gpvc.arturio.dev/Md-RonyAhmed)
+![](https://komarev.com/ghpvc/?username=Md-RonyAhmed&color=green)
 
  
