@@ -1,12 +1,38 @@
-![JavaScript || React || Node || Python](https://miro.medium.com/max/1400/0*FGD6BUzzZs1VJLuY.gif)
+![JavaScript || React || Node || MERN](https://miro.medium.com/max/1400/0*FGD6BUzzZs1VJLuY.gif)
 ### Hi there 👋, This is Md. Rony
-#### JavaScript || React || Node || Python
-I'm a self-motivated, honest, and hard-working person. I have some skills in C, C++, Python, MySQL, JavaScript, HTML, CSS, React, Redux, PHP, Artificial Intelligence, Machine learning, Neural networks, Computer vision, Image processing, and Graphics design.
-My passion is programming and the field of machine learning. So, I want to be a Full-stack web developer.
-My strong point is working long hours without losing patience. My weakness is whenever I get any task to do, I give so much time to it until it was finished and it kills some time.
-I participated in many programming contests on online and offline platforms
+#### Junior Software Engineer || Full Stack Enthusiast || JavaScript || Typescript || Next JS || React JS || Redux || MERN Stack
+My name is Md. Rony and I am agile, self-motivated, honest, and hard-working person.
+I have extensive experience in front-end development and API integration.
+I have built fully functional user interfaces with React JS and Next JS, and I have integrated REST APIs from different servers.
 
-Skills: JavaScript/ React/ MongoDB/ HTML/ CSS/ Python/ Django/ Node/ Express/ Machine Learning/ Deep Learning/ Computer Vision / Image Processing
+My skill set includes JavaScript, HTML, CSS, Next JS, React JS, Redux, Redux toolkit, Bootstrap, and Tailwind CSS.
+
+I am also familiar with Python, TypeScript, Node JS, Express JS, Firebase, and JWT.
+
+In terms of databases, I have experience with MySQL, SQL, MongoDB, and Mongoose.
+
+For hosting, I am familiar with Heroku, Vercel, and Netlify.
+
+My passion is Full Stack Development, and I am always trying to update my skills with the latest technology. I can work efficiently within short timeframes without losing patience until the job is successfully completed.
+
+Top skills
+React.js • Next.js • JavaScript • MERN Stack
+
+You can reach me at 
+
+mdronyb313@gmail.com
+and you can view my portfolio at 
+
+https://portfolio-lilac-six.vercel.app/
+
+My GitHub profile is https://github.com/Md-RonyAhmed.
+
+Thank you for your time and consideration.
+
+Sincerely,
+Md. Rony
+
+#reactjs #mern #nextjs #frontend
 
 - 🔭 I’m currently working on Frontend Development 
 - 🌱 I’m currently learning React JS 
