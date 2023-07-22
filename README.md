@@ -35,9 +35,9 @@ Md. Rony
 #reactjs #mern #nextjs #frontend
 
 - 🔭 I’m currently working on Frontend Development 
-- 🌱 I’m currently learning React JS 
+- 🌱 I’m currently learning Next JS 
 - 👯 I’m looking to collaborate on GitHub 
-- 🤔 I’m looking for help with Frontend Development 
+- 🤔 I’m looking for help with Full Stack Development 
 - 💬 Ask me about Web Development 
 - 📫 How to reach me: Email: mdronyb313@gmail.com 
 - 😄 Pronouns: @mdrony 
@@ -51,7 +51,7 @@ Md. Rony
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
-<a href="https://app.daily.dev/mdrony"><img src="https://api.daily.dev/devcards/8d2d4384208f4f06a85e1b62e531b21f.png?r=y76" width="400" alt="Md.Rony's Dev Card"/></a>
+<a href="https://app.daily.dev/mdrony"><img src="https://api.daily.dev/devcards/8d2d4384208f4f06a85e1b62e531b21f.png?r=p0m" width="400" alt="Md.Rony's Dev Card"/></a>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Md-RonyAhmed)](https://github.com/ryo-ma/github-profile-trophy)
 
