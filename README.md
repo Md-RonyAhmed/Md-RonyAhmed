@@ -1,5 +1,6 @@
 ![JavaScript || React || Node || MERN](https://miro.medium.com/max/1400/0*FGD6BUzzZs1VJLuY.gif)
 ![](https://cdn.august.com.au/wp-content/uploads/2015/04/Allan_Get-Web-Developer-Savvy_header.png)
+![](https://media.licdn.com/dms/image/D5616AQF1lfyK24Qw3w/profile-displaybackgroundimage-shrink_350_1400/0/1690063355243?e=1710979200&v=beta&t=Iv-kjaek-6fYWJZyfck9QhO0xtxxtR7Nlz7fR0yDHb8)
 ### Hi there 👋, This is Md. Rony
 #### Junior Software Engineer || Full Stack Enthusiast || JavaScript || Typescript || Next JS || React JS || Redux || MERN Stack
 My name is Md. Rony and I am agile, self-motivated, honest, and hard-working person.
