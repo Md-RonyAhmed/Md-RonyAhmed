@@ -1,5 +1,4 @@
-![JavaScript || React || Node || MERN]()
-![](https://i.ibb.co/ZTh3J5S/1690063355243.jpg)
+![JavaScript || React || Node || MERN](https://i.ibb.co/ZTh3J5S/1690063355243.jpg)
 ### Hi there 👋, This is Md. Rony
 #### Junior Software Engineer || Full Stack Enthusiast || JavaScript || Typescript || Next JS || React JS || Redux || MERN Stack
 My name is Md. Rony and I am agile, self-motivated, honest, and hard-working person.
