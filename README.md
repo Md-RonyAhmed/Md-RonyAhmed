@@ -1,4 +1,4 @@
-![JavaScript || React || Node || MERN](https://i.ibb.co/ZTh3J5S/1690063355243.jpg)
+![JavaScript || React || Node || MERN Stack](https://i.ibb.co/ZTh3J5S/1690063355243.jpg)
 ### Hi there 👋, This is Md. Rony
 #### Junior Software Engineer || Full Stack Enthusiast || JavaScript || Typescript || Next JS || React JS || Redux || MERN Stack
 <p>
@@ -61,9 +61,7 @@ Md. Rony
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Md-RonyAhmed&show_icons=true&count_private=true)  
 
-   
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Md-RonyAhmed)
-[GitHub metrics](https://metrics.lecoq.io/insights/Md-RonyAhmed)
 
 ![](https://komarev.com/ghpvc/?username=Md-RonyAhmed&color=green)
 
