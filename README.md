@@ -1,9 +1,11 @@
 ![JavaScript || React || Node || MERN](https://i.ibb.co/ZTh3J5S/1690063355243.jpg)
 ### Hi there 👋, This is Md. Rony
 #### Junior Software Engineer || Full Stack Enthusiast || JavaScript || Typescript || Next JS || React JS || Redux || MERN Stack
+<p>
 My name is Md. Rony and I am agile, self-motivated, honest, and hard-working person.
 I have extensive experience in front-end development and API integration.
 I have built fully functional user interfaces with React JS and Next JS, and I have integrated REST APIs from different servers.
+</p>
 
 My skill set includes JavaScript, HTML, CSS, Next JS, React JS, Redux, Redux toolkit, Bootstrap, and Tailwind CSS.
 
