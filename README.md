@@ -1,4 +1,4 @@
-![JavaScript || React || Node || MERN Stack](https://i.ibb.co/ZTh3J5S/1690063355243.jpg)
+![JavaScript || React || Node || MERN Stack](https://i.ibb.co.com/twS4cvHw/1761029997279.jpg)
 ### Hi there 👋, This is Md. Rony
 #### Junior Software Engineer || Full Stack Enthusiast || JavaScript || Typescript || Next JS || React JS || Redux || MERN Stack
 <p>
