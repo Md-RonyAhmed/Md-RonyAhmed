@@ -1,5 +1,6 @@
 ![Banner](https://i.ibb.co.com/twS4cvHw/1761029997279.jpg)
 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A6F72EDA&width=435&lines=Peace+be+upon+you...+%F0%9F%91%8B%F0%9F%8F%BC" alt="Typing SVG" /></a>
 <h1>👋 Hi there, I'm <span style="color:#61dafb">Md. Rony</span></h1>
 
 <h3>
@@ -33,12 +34,11 @@ I specialize in <b>modern UI development</b>, <b>REST API integration</b>, and <
 ---
 
 ## 📈 GitHub Analytics  
-
-<img height="190" src="https://github-readme-stats.vercel.app/api?username=Md-RonyAhmed&show_icons=true&theme=tokyonight&count_private=true" />
-<img height="190" src="https://github-readme-streak-stats.herokuapp.com/?user=Md-RonyAhmed&theme=tokyonight" />
-<img height="190" text-align='center' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Md-RonyAhmed&layout=compact&theme=tokyonight" />
-
-
+<p class="text-center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Md-RonyAhmed&show_icons=true&theme=tokyonight&count_private=true" />
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Md-RonyAhmed&theme=tokyonight" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Md-RonyAhmed&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
@@ -78,6 +78,9 @@ When I’m not coding, I enjoy exploring new frameworks, contributing to open-so
 </p>
 
 ---
+
+### 😜 Here's a Joke for you:
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 
 ### 🧩 HashTags  
 **#ReactJS #NextJS #TypeScript #JavaScript #FrontendDeveloper #MERNStack #WebDevelopment #OpenSource #CleanCode**
