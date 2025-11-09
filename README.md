@@ -74,7 +74,7 @@ When I’m not coding, I enjoy exploring new frameworks, contributing to open-so
 
 ---
 
-<p align="center">
+<p>
   <img src="https://api.daily.dev/devcards/v2/XLWLbvpnr6r1CwnZGGhtu.png?r=clf&type=wide" width="652" alt="Md. Rony's Dev Card"/>
 </p>
 
