@@ -26,7 +26,7 @@ I specialize in <b>modern UI development</b>, <b>REST API integration</b>, and <
 
 ## 🛠️ Tech Stack  
 
-<p align="center">
+<p>
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,materialui,nodejs,express,mongodb,mysql,firebase,git,github,vercel,heroku,netlify,figma" />
 </p>
 
@@ -34,20 +34,20 @@ I specialize in <b>modern UI development</b>, <b>REST API integration</b>, and <
 
 ## 📈 GitHub Analytics  
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Md-RonyAhmed&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Md-RonyAhmed&theme=tokyonight" />
+<p>
+  <img height="190" src="https://github-readme-stats.vercel.app/api?username=Md-RonyAhmed&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="190" src="https://github-readme-streak-stats.herokuapp.com/?user=Md-RonyAhmed&theme=tokyonight" />
 </p>
 
-<p align="center">
-  <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Md-RonyAhmed&layout=compact&theme=tokyonight" />
+<p>
+  <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Md-RonyAhmed&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
 ## 🏆 Achievements  
 
-<p align="center">
+<p>
   <img src="https://github-profile-trophy.vercel.app/?username=Md-RonyAhmed&theme=tokyonight&no-frame=true&row=1&margin-w=10" />
 </p>
 
@@ -55,7 +55,7 @@ I specialize in <b>modern UI development</b>, <b>REST API integration</b>, and <
 
 ## 🌐 Connect With Me  
 
-<p align="center">
+<p>
   <a href="https://github.com/Md-RonyAhmed"><img src="https://skillicons.dev/icons?i=github" width="40"/></a>
   <a href="https://www.linkedin.com/in/md-rony-92bb62159/"><img src="https://skillicons.dev/icons?i=linkedin" width="40"/></a>
   <a href="https://portfolio-lilac-six.vercel.app/"><img src="https://skillicons.dev/icons?i=vercel" width="40"/></a>
