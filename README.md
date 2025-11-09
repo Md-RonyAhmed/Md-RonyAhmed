@@ -57,10 +57,8 @@ I specialize in <b>modern UI development</b>, <b>REST API integration</b>, and <
 
 <p>
   <a href="https://github.com/Md-RonyAhmed"><img src="https://skillicons.dev/icons?i=github" width="40"/></a>
-  <a href="https://www.linkedin.com/in/md-rony-92bb62159/"><img src="https://skillicons.dev/icons?i=linkedin" width="40"/></a>
+  <a href="https://www.linkedin.com/in/mdrony313/"><img src="https://skillicons.dev/icons?i=linkedin" width="40"/></a>
   <a href="https://portfolio-lilac-six.vercel.app/"><img src="https://skillicons.dev/icons?i=vercel" width="40"/></a>
-  <a href="https://stackoverflow.com/users/17323649"><img src="https://skillicons.dev/icons?i=stackoverflow" width="40"/></a>
-  <a href="https://codepen.io/@mdRony"><img src="https://skillicons.dev/icons?i=codepen" width="40"/></a>
 </p>
 
 📫 **Email:** [mdronyb313@gmail.com](mailto:mdronyb313@gmail.com)  
