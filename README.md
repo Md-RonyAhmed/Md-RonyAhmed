@@ -1,12 +1,12 @@
 ![Banner](https://i.ibb.co.com/twS4cvHw/1761029997279.jpg)
 
-<h1 align="center">👋 Hi there, I'm <span style="color:#61dafb">Md. Rony</span></h1>
+<h1>👋 Hi there, I'm <span style="color:#61dafb">Md. Rony</span></h1>
 
-<h3 align="center">
+<h3>
 💻 Frontend Engineer | React.js | Next.js | TypeScript | MERN Stack Developer
 </h3>
 
-<p align="center">
+<p>
 🚀 Passionate <b>Frontend Engineer</b> with 3+ years of experience building <b>scalable, high-performance web applications</b> using <b>React.js</b>, <b>Next.js</b>, and <b>TypeScript</b>.<br/>
 I specialize in <b>modern UI development</b>, <b>REST API integration</b>, and <b>performance optimization</b> — with a strong interest in <b>Full Stack Development</b>.
 </p>
@@ -28,14 +28,6 @@ I specialize in <b>modern UI development</b>, <b>REST API integration</b>, and <
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,materialui,nodejs,express,mongodb,mysql,firebase,git,github,vercel,heroku,netlify,figma" />
-</p>
-
----
-
-## ⚙️ Languages and Tools  
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,redux,html,css,tailwind,materialui,nodejs,express,mongodb,mysql,firebase,git,github,postman,figma,vercel,heroku,netlify" />
 </p>
 
 ---
@@ -86,7 +78,7 @@ When I’m not coding, I enjoy exploring new frameworks, contributing to open-so
   <img src="https://api.daily.dev/devcards/v2/XLWLbvpnr6r1CwnZGGhtu.png?r=clf&type=wide" width="652" alt="Md. Rony's Dev Card"/>
 </p>
 
-<p align="center">
+<p>
   <img src="https://komarev.com/ghpvc/?username=Md-RonyAhmed&color=blueviolet&style=flat-square" alt="profile views"/>
 </p>
 
