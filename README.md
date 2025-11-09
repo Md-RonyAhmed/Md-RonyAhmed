@@ -34,14 +34,13 @@ I specialize in <b>modern UI development</b>, <b>REST API integration</b>, and <
 
 ## 📈 GitHub Analytics  
 
-<p>
-  <img height="190" src="https://github-readme-stats.vercel.app/api?username=Md-RonyAhmed&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="190" src="https://github-readme-streak-stats.herokuapp.com/?user=Md-RonyAhmed&theme=tokyonight" />
-</p>
+<div style="display: flex; justify-content: center; gap: 25px; flex-wrap: wrap; margin-bottom: 20px;">
 
-<p>
-  <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Md-RonyAhmed&layout=compact&theme=tokyonight" />
-</p>
+<img height="190" src="https://github-readme-stats.vercel.app/api?username=Md-RonyAhmed&show_icons=true&theme=tokyonight&count_private=true" />
+<img height="190" src="https://github-readme-streak-stats.herokuapp.com/?user=Md-RonyAhmed&theme=tokyonight" />
+<img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Md-RonyAhmed&layout=compact&theme=tokyonight" />
+
+</div>
 
 ---
 
