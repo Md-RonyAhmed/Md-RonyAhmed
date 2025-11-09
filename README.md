@@ -1,49 +1,72 @@
-![JavaScript || React || Node || MERN Stack](https://i.ibb.co.com/twS4cvHw/1761029997279.jpg)
-### Hi there 👋, This is Md. Rony
-#### Junior Software Engineer || Full Stack Enthusiast || JavaScript || Typescript || Next JS || React JS || Redux || MERN Stack
-<p>
-My name is Md. Rony and I am agile, self-motivated, honest, and hard-working person.
-I have extensive experience in front-end development and API integration.
-I have built fully functional user interfaces with React JS and Next JS, and I have integrated REST APIs from different servers.
+![Banner](https://i.ibb.co.com/twS4cvHw/1761029997279.jpg)
+
+# 👋 Hi there, I'm Md. Rony  
+### 💻 Frontend Engineer | React.js | Next.js | TypeScript | MERN Stack Developer  
+
+🚀 Passionate **Frontend Engineer** with 3+ years of experience building **scalable, high-performance web applications** using **React.js**, **Next.js**, and **TypeScript**.  
+I specialize in **modern UI development**, **REST API integration**, and **performance optimization**, with a strong interest in **Full Stack Development**.  
+
+---
+
+### 🧠 About Me  
+- 💼 Currently working as a **Frontend Engineer at As-Sunnah Foundation**  
+- 🧩 Experienced in **React.js, Next.js, TypeScript, Redux Toolkit, Tailwind CSS, and Material UI**  
+- 🌱 Learning **Next.js App Router**, **React Server Components**, and **Advanced TypeScript Patterns**  
+- 🧑‍🏫 Previously trained 200+ students in Web Development (React, JavaScript, Git, APIs)  
+- ⚙️ Strong understanding of **Agile/SCRUM**, **API integration**, and **UI performance optimization**  
+- 💡 Passionate about **clean code, reusability, and scalable component architecture**
+
+---
+
+### 🛠️ Tech Stack
+**Frontend:** React.js | Next.js | JavaScript (ES6+) | TypeScript | HTML5 | CSS3 | Tailwind CSS | Material UI | Redux Toolkit  
+**Backend:** Node.js | Express.js | Firebase | REST API | JWT  
+**Database:** MongoDB | Mongoose | MySQL  
+**Tools:** Git | GitHub | VS Code | Postman | Figma | Trello  
+**Deployment:** Vercel | Netlify | Heroku  
+
+---
+
+### 📈 GitHub Analytics
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Md-RonyAhmed&show_icons=true&count_private=true&theme=react" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Md-RonyAhmed&theme=react" />
 </p>
 
-My skill set includes JavaScript, HTML, CSS, Next JS, React JS, Redux, Redux toolkit, Bootstrap, and Tailwind CSS.
+<p align="center">
+  <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Md-RonyAhmed&layout=compact&theme=react" />
+</p>
 
-I am also familiar with Python, TypeScript, Node JS, Express JS, Firebase, and JWT.
+---
 
-In terms of databases, I have experience with MySQL, SQL, MongoDB, and Mongoose.
+### 🏆 Achievements
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Md-RonyAhmed&theme=onedark&row=1&margin-w=10" />
+</p>
 
-For hosting, I am familiar with Heroku, Vercel, and Netlify.
+---
 
-My passion is Full Stack Development, and I am always trying to update my skills with the latest technology. I can work efficiently within short timeframes without losing patience until the job is successfully completed.
+### 🌐 Connect With Me
+<p align="left">
+  <a href="https://github.com/Md-RonyAhmed"><img src="https://skillicons.dev/icons?i=github" width="35"/></a>
+  <a href="https://www.linkedin.com/in/md-rony-92bb62159/"><img src="https://skillicons.dev/icons?i=linkedin" width="35"/></a>
+  <a href="https://portfolio-lilac-six.vercel.app/"><img src="https://skillicons.dev/icons?i=vercel" width="35"/></a>
+  <a href="https://stackoverflow.com/users/17323649"><img src="https://skillicons.dev/icons?i=stackoverflow" width="35"/></a>
+  <a href="https://codepen.io/@mdRony"><img src="https://skillicons.dev/icons?i=codepen" width="35"/></a>
+</p>
 
-Top skills
-React.js • Next.js • JavaScript • MERN Stack
+📫 **Email:** [mdronyb313@gmail.com](mailto:mdronyb313@gmail.com)  
+💻 **Portfolio:** [portfolio-lilac-six.vercel.app](https://portfolio-lilac-six.vercel.app/)  
 
-You can reach me at 
+---
 
-mdronyb313@gmail.com
-and you can view my portfolio at 
+### ⚡ Fun Fact
+When I’m not coding, I enjoy exploring new frameworks, contributing to open-source projects, and mentoring future developers 🚀  
 
-https://portfolio-lilac-six.vercel.app/
+---
 
-My GitHub profile is https://github.com/Md-RonyAhmed.
+**#ReactJS #NextJS #TypeScript #JavaScript #FrontendDeveloper #MERNStack #WebDevelopment**
 
-Thank you for your time and consideration.
-
-Sincerely,
-Md. Rony
-
-#reactjs #mern #nextjs #frontend
-
-- 🔭 I’m currently working on Frontend Development 
-- 🌱 I’m currently learning Next JS 
-- 👯 I’m looking to collaborate on GitHub 
-- 🤔 I’m looking for help with Full Stack Development 
-- 💬 Ask me about Web Development 
-- 📫 How to reach me: Email: mdronyb313@gmail.com 
-- 😄 Pronouns: @mdrony 
-- ⚡ Fun fact: #codding 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Md-RonyAhmed)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/md-rony-92bb62159/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/@mdRony)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/17323649)  
